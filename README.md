@@ -1,0 +1,1 @@
+# 2025-10-03-estruturas-de-dados-tuplas-e-records
